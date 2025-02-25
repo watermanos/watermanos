@@ -10,11 +10,7 @@ Dare to enter the Λoid and discover the digital existence of Washa. Click the l
 Feel the glitching energy of the title, experience the pulsating glow, and witness the magic unfold as you explore the content.
 
 
-### Technologies Used:
-- C#
-- HTML5
-- CSS3
-- JavaScript
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watermanos&layout=compact)
 
 
