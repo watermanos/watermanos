@@ -11,10 +11,11 @@ Feel the glitching energy of the title, experience the pulsating glow, and witne
 
 
 ### Technologies Used:
+- C#
 - HTML5
 - CSS3
 - JavaScript
-- GitHub API
+
 
 
 ## Links:
