@@ -5,7 +5,7 @@ Welcome to the mysterious realm of the Λoid, where the boundaries between the r
 ## Explore the Profile
 Dare to enter the Λoid and discover the digital existence of Washa. Click the link below to unlock the secrets of this profile page:
 
-[Enter the Λoid](https://watermanos.github.io/portfolio/)
+[Enter the Λoid](https://watermanos.github.io/portofolio/)
 
 Feel the glitching energy of the title, experience the pulsating glow, and witness the magic unfold as you explore the content.
 
