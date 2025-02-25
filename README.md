@@ -13,7 +13,7 @@ Feel the glitching energy of the title, experience the pulsating glow, and witne
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watermanos&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=watermanos)
 
 
 ## Links:
