@@ -12,9 +12,9 @@ Feel the glitching energy of the title, experience the pulsating glow, and witne
 
 ### Technologies Used:
 - HTML5
-- CSS3 (with animations)
-- JavaScript (for fetching repositories)
-- GitHub API (to dynamically display repositories)
+- CSS3
+- JavaScript
+- GitHub API
 
 
 ## Links:
